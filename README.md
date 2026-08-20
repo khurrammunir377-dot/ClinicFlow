@@ -4,6 +4,8 @@ ClinicFlow is a Pakistan-focused clinic appointment and reminder operations plat
 
 ## Quick start (Windows PowerShell)
 
+For the easiest Windows setup, double-click `setup_and_run_demo.bat`. Detailed test cases and troubleshooting are provided in `TESTING_INSTRUCTIONS.md`.
+
 ```powershell
 py -m venv venv
 venv\Scripts\Activate.ps1
